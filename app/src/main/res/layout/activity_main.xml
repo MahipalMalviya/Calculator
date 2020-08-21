@@ -260,7 +260,7 @@
             android:layout_marginTop="1dp"
             android:layout_span="1"
             android:background="#607D8B"
-            android:text="x"
+            android:text="*"
             android:textColor="#FFFFFF"
             android:textSize="35dp"
             android:typeface="monospace" />
